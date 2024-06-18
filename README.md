@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)]
+![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)
 <h1 align="center">Hi 👋, I'm Raj Ratan</h1>
 <h3 align="center">I am a passionate Software Developer specializing in web development. With a strong foundation in a diverse tech stack, I enjoy creating robust and efficient applications that provide seamless user experiences.</h3>
 <p align="center">
